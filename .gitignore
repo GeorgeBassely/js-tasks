@@ -1,0 +1,5 @@
+webfonts/**/*
+scripts/**/*
+!scripts/script.js
+styles/**/*
+!style.css
